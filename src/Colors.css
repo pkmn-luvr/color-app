@@ -1,0 +1,31 @@
+.colors-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.color-link {
+    display: block;
+    margin: 10px 0;
+    color: #333;
+    text-decoration: none;
+    font-size: 50px; 
+    font-weight: bold; 
+}
+
+.color-link:hover {
+    text-decoration: underline;
+}
+
+.add-color-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.add-color-link:hover {
+    background-color: #0056b3;
+}
